@@ -1,5 +1,5 @@
 
-# Slot: type
+# Slot: ~~type~~ _(deprecated)_
 
 
 A type from the sequence ontology

@@ -1,5 +1,5 @@
 
-# Slot: type
+# Slot: ~~type~~ _(deprecated)_
 
 
 An optional string that specifies the type object.  This is used to allow for searches for different kinds of objects.
