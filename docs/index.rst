@@ -31,7 +31,6 @@ NMDC Documentation
    :maxdepth: 2
    :caption: Reference:
 
-   NMDC Schema <./standards/combined_schema_docs.md>
    NMDC Workflows <./workflows/combined_workflow_docs.rst>
 
 .. toctree::
