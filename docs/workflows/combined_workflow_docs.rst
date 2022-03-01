@@ -45,7 +45,7 @@ The NMDC workflows are also available as a web application called `NMDC EDGE <ht
 Reads QC Workflow (v1.0.2)
 =============================
 
-.. image:: ../_static/images/1_RQC_rqc_workflow.png
+.. image:: ../_static/images/workflows/1_RQC_rqc_workflow.png
    :align: center
    :scale: 50%
 
@@ -259,7 +259,7 @@ Point of contact
 The Read-based Taxonomy Classification (v1.0.1)
 ================================================
 
-.. image:: ../_static/images/2_ReadAnalysis_readbased_analysis_workflow.png
+.. image:: ../_static/images/workflows/2_ReadAnalysis_readbased_analysis_workflow.png
    :align: center
    :scale: 50%
 
@@ -426,7 +426,7 @@ Package maintainer: Po-E Li <po-e@lanl.gov>
 Metagenome Assembly Workflow (v1.0.2)
 ========================================
 
-.. image:: ../_static/images/3_MetaGAssemly_workflow_assembly.png
+.. image:: ../_static/images/workflows/3_MetaGAssemly_workflow_assembly.png
    :scale: 60%
    :alt: Metagenome assembly workflow dependencies
    
@@ -663,7 +663,7 @@ Point of contact
 Metagenome Annotation Workflow (v1.0.0)
 =======================================
 
-.. image:: ../_static/images/4_MetaGAnnotation_annotation.png
+.. image:: ../_static/images/workflows/4_MetaGAnnotation_annotation.png
 
 Workflow Overview
 -----------------
@@ -779,7 +779,7 @@ Point of contact
 Metagenome Assembled Genomes Workflow (v1.0.4)
 =============================================
 
-.. image:: ../_static/images/5_MAG_MAG_workflow.png
+.. image:: ../_static/images/workflows/5_MAG_MAG_workflow.png
    :scale: 40%
    :alt: Metagenome assembled genomes generation 
 
@@ -1006,7 +1006,7 @@ MetaT is a workflow designed to analyze metatranscriptomes, building on top of a
 Workflow Diagram
 ------------------
 
-.. image:: ../_static/images/6_MetaT_metaT_figure.png
+.. image:: ../_static/images/workflows/6_MetaT_metaT_figure.png
    :scale: 25%
    :alt: Metatranscriptome workflow
 
@@ -1237,7 +1237,7 @@ The metaproteomics workflow/pipeline is an end-to-end data processing workflow f
 Workflow Diagram
 ------------------
 
-.. image:: ../_static/images/7_Metaproteomics_detailed_workflow_diagram.png
+.. image:: ../_static/images/workflows/7_Metaproteomics_detailed_workflow_diagram.png
 
 Workflow Dependencies
 ---------------------
@@ -1360,7 +1360,7 @@ abundance threshold calculation, peak picking, spectral similarity calculation a
 Workflow Diagram
 ------------------
 
-.. image:: ../_static/images/8_Metabolomics_metamsworkflow.png
+.. image:: ../_static/images/workflows/8_Metabolomics_metamsworkflow.png
 
 
 Workflow Dependencies
@@ -1457,7 +1457,7 @@ Direct Infusion Fourier Transform mass spectrometry (DI FT-MS) data undergoes si
 Workflow Diagram
 ------------------
 
-.. image:: ../_static/images/9_NOM_enviromsworkflow.png
+.. image:: ../_static/images/workflows/9_NOM_enviromsworkflow.png
 
 
 Workflow Dependencies
