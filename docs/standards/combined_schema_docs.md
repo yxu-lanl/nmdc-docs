@@ -1,4 +1,4 @@
-# NMDC Schema Documentation
+# NMDC Metadata Documentation
 
 
 

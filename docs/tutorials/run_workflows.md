@@ -1,13 +1,13 @@
 # Running the Workflows
 
-## Metagenomics
-
-### QuickStart
+## QuickStart
 
 <div align="center">
     <video src="../_static/videos/nmdc-edge.mp4" width="80%" height="80%" controls />
 </div>
 <br><br>
+
+## Metagenomics
 
 ### ReadsQC
 
