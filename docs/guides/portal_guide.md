@@ -21,7 +21,7 @@ basis. Associated release notes and updated user guides will accompany
 each quarterly release.
 
 There is a short video tutorial showing how to navigate the portal on
-Youtube (<https://www.youtube.com/watch?v=iHUm_3Ghr3c>).
+Youtube (<https://www.youtube.com/watch?v=KJQDrCnJRho>).
 
 ## User-Centered Design Process
 
