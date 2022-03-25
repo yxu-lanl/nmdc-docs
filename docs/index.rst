@@ -21,19 +21,19 @@ NMDC Documentation
    :maxdepth: 2
    :caption: How-To Guides:
 
-   Creating a Data Mgt. Plan <./guides/data_plan.md>
-   Submitting to NMDC <./guides/submit2nmdc.md>
-   Running the Workflows <./guides/run_workflows.md>
-   Navigating the Data Portal <./guides/portal_guide.md>
+   Creating a Data Mgt. Plan <./howto_guides/data_plan.md>
+   Submitting to NMDC <./howto_guides/submit2nmdc.md>
+   Running the Workflows <./howto_guides/run_workflows.md>
+   Navigating the Data Portal <./howto_guides/portal_guide.md>
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Reference:
 
-   NMDC Metadata <./standards/combined_schema_docs.md>
-   NMDC Workflows <./workflows/combined_workflow_docs.rst>
-   NMDC Data Portal <./guides/data_portal.md>
+   NMDC Metadata <./reference/metadata/combined_schema_docs.md>
+   NMDC Workflows <./reference/combined_workflow_docs.rst>
+   NMDC Data Portal <./reference/data_portal.md>
 
 .. toctree::
    :maxdepth: 2
