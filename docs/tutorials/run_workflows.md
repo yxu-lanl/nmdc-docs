@@ -26,12 +26,33 @@
 </div>
 <br><br>
 
+>NMDC EDGE ReadsQC Tutorial Practice 
+>
+>Task 1: Log into NMDC EDGE and run the ReadsQC workflow using the dataset uploaded in the QuickStart tutorial.
+>
+>Task 2:  How many reads were in the input file? How many bases were in the input file?
+>
+>Task 3:  How many reads were in the output file? How many bases were in the output file?
+>
+>Task 4:  What file in the output would be used in the next workflow?
+
+
 ### Read-based Taxonomy Classification
 
 <div align="center">
     <video src="https://nmdc-edge.org/docs/videos/ReadBasedAnalysis.mp4" width="80%" height="80%" controls />
 </div>
 <br><br>
+
+>NMDC EDGE Read-based Taxonomy Classification Tutorial Practice 
+>
+>Task 1: Log into NMDC EDGE and run the Read-based Taxonomy Classification workflow. Select all three Analysis tools.  Using the clean data output file from project run in the ReadsQC Tutorial (the file ending in .anqdpht.fq.gz). In this case, the file will be treated as single-end reads.
+>
+>Task 2:  How many of the Top 10 species are called by more than one tool?
+>
+>Task 3:  List the genera that are called by all three tools in the Top 10.
+>
+>Task 4:  Open a full window of the Krona plot at species level. What percentage of the sample is estimated to be Pseudomonas aeruginosa? Take a screenshot of the Krona plot.
 
 ### Assembly
 
