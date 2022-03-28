@@ -168,10 +168,24 @@ Multiple output files are provided by the workflow; the primary files
 are shown below. The full list of output files can be found in
 [ReadtheDocs](https://nmdc-workflow-documentation.readthedocs.io/en/latest/chapters/1_RQC_index.html).
 
-| Primary Output Files      |            Description                                    |
-| ------------------------- | --------------------------------------------------------- |
-| Filtered Sequencing Reads | Cleaned paired-end data in interleaved format (.fastq.gz) |
-| QC statistics (2 files)   | Reads QC summary statistics (.txt)                        |
+<table border="1" class="docutils">
+<thead>
+<tr>
+<th>Primary Output Files</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Filtered Sequencing Reads</td>
+<td>Cleaned paired-end data in interleaved format (.fastq.gz)</td>
+</tr>
+<tr>
+<td>QC statistics (2 files)</td>
+<td>Reads QC summary statistics (.txt)</td>
+</tr>
+</tbody>
+</table>
 
 #### Running the Reads QC Workflow in NMDC EDGE
 
@@ -286,10 +300,24 @@ Multiple output files are provided by the workflow; the primary files
 are shown below. The full list of output files can be found in
 [ReadtheDocs](https://nmdc-workflow-documentation.readthedocs.io/en/latest/chapters/2_ReadAnalysis_index.html).
 
-| Primary Output Files            | Description                                         |
-| ------------------------------- | --------------------------------------------------- |
-| Profiling results for each tool | Tabular results of the profile for each tool (.tsv) |
-| Krona plots for each tool       | Interactive graphic file (.html)                    |
+<table border="1" class="docutils">
+<thead>
+<tr>
+<th>Primary Output Files</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Profiling results for each tool</td>
+<td>Tabular results of the profile for each tool (.tsv)</td>
+</tr>
+<tr>
+<td>Krona plots for each tool</td>
+<td>Interactive graphic file (.html)</td>
+</tr>
+</tbody>
+</table>
 
 #### Running the Read-based Taxonomy Classification Workflow in NMDC EDGE
 
@@ -409,13 +437,36 @@ Multiple output files are provided by the workflow; the primary files
 are shown below. The full list of output files can be found in
 [ReadtheDocs](https://nmdc-workflow-documentation.readthedocs.io/en/latest/chapters/3_MetaGAssemly_index.html).
 
-| Primary Output Files    | Description                                                 |
-| ----------------------- | ----------------------------------------------------------- |
-| Assembly Contigs        | Final assembly contigs (assembly_contigs.fna)               |
-| Assembly Scaffolds      | Final assembly scaffolds (assembly_scaffolds.fna)           |
-| Assembly AGP            | An AGP format file which describes the assembly             |
-| Assembly Coverage BAM   | Sorted bam file of reads mapping back to the final assembly |
-| Assembly Coverage Stats | Assembled contigs coverage information                      |
+<table border="1" class="docutils">
+<thead>
+<tr>
+<th>Primary Output Files</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Assembly Contigs</td>
+<td>Final assembly contigs (assembly_contigs.fna)</td>
+</tr>
+<tr>
+<td>Assembly Scaffolds</td>
+<td>Final assembly scaffolds (assembly_scaffolds.fna)</td>
+</tr>
+<tr>
+<td>Assembly AGP</td>
+<td>An AGP format file which describes the assembly</td>
+</tr>
+<tr>
+<td>Assembly Coverage BAM</td>
+<td>Sorted bam file of reads mapping back to the final assembly</td>
+</tr>
+<tr>
+<td>Assembly Coverage Stats</td>
+<td>Assembled contigs coverage information</td>
+</tr>
+</tbody>
+</table>
 
 #### Running the Metagenome Assembly Workflow in NMDC EDGE
 
@@ -552,13 +603,36 @@ Multiple output files are provided by the workflow; the primary files
 are shown below. The full list of output files can be found in
 [ReadtheDocs.](https://nmdc-workflow-documentation.readthedocs.io/en/latest/chapters/4_MetaGAnnotation_index.html)
 
-| Primary Output Files   | Description                                                     |
-| ---------------------- | --------------------------------------------------------------- |
-| Structural Annotation  | Consensus structural annotation file from multiple tools (.gff) |
-| Functional Annotation  | Consensus functional annotation file from multiple tools (.gff) |
-| KEGG summary           | KEGG gene function tabular summary (.tsv)                       |
-| EC summary             | Enzyme Commission tabular summary (.tsv)                        |
-| Gene phylogeny summary | Gene phylogeny tabular summary (.tsv)                           |
+<table border="1" class="docutils">
+<thead>
+<tr>
+<th>Primary Output Files</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Structural Annotation</td>
+<td>Consensus structural annotation file from multiple tools (.gff)</td>
+</tr>
+<tr>
+<td>Functional Annotation</td>
+<td>Consensus functional annotation file from multiple tools (.gff)</td>
+</tr>
+<tr>
+<td>KEGG summary</td>
+<td>KEGG gene function tabular summary (.tsv)</td>
+</tr>
+<tr>
+<td>EC summary</td>
+<td>Enzyme Commission tabular summary (.tsv)</td>
+</tr>
+<tr>
+<td>Gene phylogeny summary</td>
+<td>Gene phylogeny tabular summary (.tsv)</td>
+</tr>
+</tbody>
+</table>
 
 #### Running the Metagenome Annotation Workflow in NMDC EDGE
 
@@ -689,9 +763,20 @@ Multiple output files are provided by the workflow; the primary files
 are shown below. The full list of output files can be found in
 [ReadtheDocs.](https://nmdc-workflow-documentation.readthedocs.io/en/latest/chapters/5_MAG_index.html)
 
-| Primary Output Files  | Description                                                           |
-| --------------------- | --------------------------------------------------------------------- |
-| hqmq-metabat-bins.zip | Bins of contigs rated high or medium quality with an assigned lineage |
+<table border="1" class="docutils">
+<thead>
+<tr>
+<th>Primary Output Files</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>hqmq-metabat-bins.zip</td>
+<td>Bins of contigs rated high or medium quality with an assigned lineage</td>
+</tr>
+</tbody>
+</table>
 
 #### Running the Metagenome Assembled Genomes (MAGs) Workflow in NMDC EDGE
 
@@ -827,10 +912,24 @@ The table below lists the primary output files. The main outputs are the
 assembled transcripts and annotated features file. Several annotation
 files are also available to download.
 
-| Primary Output Files     | Description                  |
-| ------------------------ | ---------------------------- |
-| INPUT_NAME.contigs.fa    | Assembled transcripts        |
-| rpkm_sorted_features.tsv | Feature table sorted by RPKM |
+<table border="1" class="docutils">
+<thead>
+<tr>
+<th>Primary Output Files</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>INPUT_NAME.contigs.fa</td>
+<td>Assembled transcripts</td>
+</tr>
+<tr>
+<td>rpkm_sorted_features.tsv</td>
+<td>Feature table sorted by RPKM</td>
+</tr>
+</tbody>
+</table>
 
 ### Running the Metatranscriptomics Workflow in NMDC EDGE
 
@@ -947,9 +1046,20 @@ with Orbitrap mass spectrometry data.
 The primary output file is the Molecular Formula Data Table (in a .csv
 file).
 
-| Primary Output Files | Description                                                                |
-| -------------------- | -------------------------------------------------------------------------- |
-| INPUT_NAME.csv       | m/z, Peak height, Peak Area, Molecular Formula IDs, Confidence Score, etc. |
+<table border="1" class="docutils">
+<thead>
+<tr>
+<th>Primary Output Files</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>INPUT_NAME.csv</td>
+<td>m/z, Peak height, Peak Area, Molecular Formula IDs, Confidence Score, etc.</td>
+</tr>
+</tbody>
+</table>
 
 ### Running the Natural Organic Matter Workflow in NMDC EDGE
 
