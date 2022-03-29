@@ -1,4 +1,5 @@
 # Community Conversations
+Through this series, the NMDC team invites the broader research community to join us to learn about the breadth of NMDC program activities and partnerships, engage in lively conversations with the NMDC team, and contribute feedback and ideas to inform the future directions of the NMDC.
 
 ### 6. [The True Potential of Citing Data](https://www.youtube.com/watch?v=bmxhi1C3QR4)
 This Community Conversation will help our community understand the data citation landscape and increase awareness of best practices for getting and giving credit to data. (Mar. 9, 2022) 
