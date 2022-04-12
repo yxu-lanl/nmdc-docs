@@ -42,9 +42,7 @@ To run a workflow, the user must provide:
 > ![](../_static/images/howto_guides/workflows/quickStart/image6.png)
 
 Note: Clicking on the buttons to the right of the data input blanks
-opens a box called "Select a file" to allow the user
-
-to find the desired files (shown in purple) from previously run
+opens a box called "Select a file" to allow the user to find the desired files (shown in purple) from previously run
 projects, the public data folder, or user uploaded files.
 
 ![](../_static/images/howto_guides/workflows/quickStart/image7.png)
@@ -55,7 +53,7 @@ projects, the public data folder, or user uploaded files.
     desires to run more than one of the metagenomic workflows or the
     entire metagenomic pipeline.
 
-2.  Enter a **[unique]{.underline}** Project/Run Name with no spaces
+2.  Enter a **unique** Project/Run Name with no spaces
     (underscores are fine).
 
 3.  A description is optional, but recommended.
@@ -194,7 +192,7 @@ Select a workflow
 1.  From the Metagenomics category in the left menu bar, select 'Run a
     Single Workflow'.
 
-2.  Enter a ***[unique]{.underline}*** project name with no spaces
+2.  Enter a **unique** project name with no spaces
     (underscores are fine).
 
 3.  A description is optional, but helpful.
@@ -326,7 +324,7 @@ Select a workflow
 1.  From the Metagenomics category in the left menu bar, select 'Run a
     Single Workflow'.
 
-2.  Enter a ***[unique]{.underline}*** project name with no spaces
+2.  Enter a ***unique** project name with no spaces
     (underscores are fine).
 
 3.  A description is optional, but helpful.
@@ -475,7 +473,7 @@ Select a workflow
 1.  From the Metagenomics category in the left menu bar, select 'Run a
     Single Workflow'.
 
-2.  Enter a ***[unique]{.underline}*** project name with no spaces
+2.  Enter a **unique** project name with no spaces
     (underscores are fine).
 
 3.  A description is optional, but helpful.
@@ -641,7 +639,7 @@ Select a workflow
 1.  From the Metagenomics category in the left menu bar, select 'Run a
     Single Workflow'.
 
-2.  Enter a ***[unique]{.underline}*** project name with no spaces
+2.  Enter a **unique** project name with no spaces
     (underscores are fine).
 
 3.  A description is optional, but helpful.
@@ -785,7 +783,7 @@ Select a workflow
 1.  From the Metagenomics category in the left menu bar, select 'Run a
     Single Workflow'.
 
-2.  Enter a ***[unique]{.underline}*** project name with no spaces
+2.  Enter a **unique** project name with no spaces
     (underscores are fine).
 
 3.  A description is optional, but helpful.
@@ -938,7 +936,7 @@ Select a workflow
 1.  From the Metatranscriptomics category in the left menu bar, select
     'Run a Single Workflow'.
 
-2.  Enter a ***[unique]{.underline}*** project name with no spaces
+2.  Enter a **unique** project name with no spaces
     (underscores are fine).
 
 3.  A description is optional, but helpful.
@@ -1068,7 +1066,7 @@ Select a workflow
 1.  From the Organic Matter category in the left menu bar, select 'Run a
     Single Workflow'.
 
-2.  Enter a ***[unique]{.underline}*** project name with no spaces
+2.  Enter a **unique** project name with no spaces
     (underscores are fine).
 
 3.  A description is optional, but helpful.
