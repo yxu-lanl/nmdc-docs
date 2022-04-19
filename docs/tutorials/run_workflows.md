@@ -121,6 +121,17 @@ https://nmdc-edge.org/publicdata/test_data/SRR7877884-int-0.1.fastq.gz) Upload t
 https://nmdc-edge.org/publicdata/test_data/SRR7877884-int-0.1.fastq.gz) Upload the file to NMDC EDGE and run the full pipeline.
 
 
+## Metatranscriptomics
+
+
+
+
+
+
+>NMDC EDGE Metatranscriptomics Tutorial Practics
+>
+>Task: 
+
 
 
   
