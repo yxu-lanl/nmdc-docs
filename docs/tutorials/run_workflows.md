@@ -117,7 +117,7 @@ https://nmdc-edge.org/publicdata/test_data/SRR7877884-int-0.1.fastq.gz) Upload t
 >
 >Task: Log into NMDC EDGE and run the full Metagenome pipeline (multiple workflows- all workflows are selected by default). Use the same dataset uploaded in the QuickStart tutorial. Check your results for the full pipeline against your results from the previous tutorials. The results should be identical/nearly identical to the results from the previous tutorials for each individual workflow with the added benefit of submitting all the workflows with a single input of raw sequencing data.
 >
->If you want to just test the full pipeline and not the individual workflows, [click to download this data set.](
+>If you want to just test the full pipeline and not the individual workflows, [download this data set.](
 https://nmdc-edge.org/publicdata/test_data/SRR7877884-int-0.1.fastq.gz) Upload the file to NMDC EDGE and run the full pipeline.
 
 
