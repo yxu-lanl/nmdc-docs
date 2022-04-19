@@ -47,13 +47,13 @@ https://nmdc-edge.org/publicdata/test_data/SRR7877884-int-0.1.fastq.gz) Upload t
 
 >NMDC EDGE Metagenome Read-based Taxonomy Classification Tutorial Practice 
 >
->Task: Log into NMDC EDGE and run the Metagenome Read-based Taxonomy Classification workflow. Select all three Analysis tools.  Use the clean data output file from the project run in the ReadsQC Tutorial (the file ending in .anqdpht.fq.gz). In this case, the file will be treated as single-end reads.
+>Task: Log into NMDC EDGE and run the Metagenome Read-based Taxonomy Classification workflow with all three taxonomy classification tools. (Note: All three tools are selected by default. While a user can opt to turn off one or two tools, it is recommended to run all three.) Use the clean data output file from the project run in the ReadsQC Tutorial (the file ending in .anqdpht.fq.gz). In this case, the file will be treated as single-end reads.
 >
 >&nbsp;&nbsp;&nbsp;&nbsp;Question 1:  How many of the Top 10 species are called by more than one tool?
 >
->&nbsp;&nbsp;&nbsp;&nbsp;Question 2:  List the genera that are called by all three tools in the Top 10.
+>&nbsp;&nbsp;&nbsp;&nbsp;Question 2:  List the **genera** that are called by all three tools in the Top 10.
 >
->&nbsp;&nbsp;&nbsp;&nbsp;Question 3:  Open a full window of the Krona plot at species level. What percentage of the sample is estimated to be Pseudomonas aeruginosa? 
+>&nbsp;&nbsp;&nbsp;&nbsp;Question 3:  Open a full window of the Krona plot at **species level** from the taxonomy classification tool Centrifuge. What percentage of the sample is estimated to be _Pseudomonas aeruginosa_? 
 
 ### Assembly
 
@@ -104,7 +104,7 @@ https://nmdc-edge.org/publicdata/test_data/SRR7877884-int-0.1.fastq.gz) Upload t
 >
 >&nbsp;&nbsp;&nbsp;&nbsp;Question 2:  How many bins were determined to be high quality (HQ)? How many bins were determined to be medium quality (MQ)?
 >
->&nbsp;&nbsp;&nbsp;&nbsp;Question 3: What is the organism identified from genome in the bin which is most complete and has the least contamination (the highest quality bin)?
+>&nbsp;&nbsp;&nbsp;&nbsp;Question 3: What is the organism identified from genome in the bin which is most complete and has the least contamination (the highest quality bin)? (Note: Scroll to the far right of the summary table in the results to get the species assignment.)
 
 ### Running multiple workflows or the full metagenomic pipeline with a single input
 
@@ -115,13 +115,11 @@ https://nmdc-edge.org/publicdata/test_data/SRR7877884-int-0.1.fastq.gz) Upload t
 
 >NMDC EDGE Full Metagenome Piepline Tutorial Practice 
 >
->Task: Log into NMDC EDGE and run the full Metagenome pipeline (multiple workflows- select all). Use the dataset uploaded in the QuickStart tutorial.
+>Task: Log into NMDC EDGE and run the full Metagenome pipeline (multiple workflows- all workflows are selected by default). Use the same dataset uploaded in the QuickStart tutorial. Check your results for the full pipeline against your results from the previous tutorials. The results should be identical/nearly identical to the results from the previous tutorials for each individual workflow with the added benefit of submitting all the workflows with a single input of raw sequencing data.
 >
->&nbsp;&nbsp;&nbsp;&nbsp;Question 1:  
->
->&nbsp;&nbsp;&nbsp;&nbsp;Question 2:  
->
->&nbsp;&nbsp;&nbsp;&nbsp;Question 3: 
+>If you want to just test the full pipeline and not the individual workflows, [click to download this data set.](
+https://nmdc-edge.org/publicdata/test_data/SRR7877884-int-0.1.fastq.gz) Upload the file to NMDC EDGE and run the full pipeline.
+
 
 
 
