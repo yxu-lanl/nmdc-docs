@@ -123,6 +123,10 @@ https://nmdc-edge.org/publicdata/test_data/SRR7877884-int-0.1.fastq.gz) Upload t
 
 ## Metatranscriptomics
 
+<div align="center">
+    <video src="https://nmdc-edge.org/docs/videos/MetaT.mp4" width="80%" height="80%" controls />
+</div>
+<br><br>
 
 
 

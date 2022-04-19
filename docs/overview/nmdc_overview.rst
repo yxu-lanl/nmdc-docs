@@ -8,5 +8,5 @@ About our documentation
 
 Our documentation is based on the `Diátaxis framework <https://diataxis.fr/>`_. 
 
-.. image:: https://nmdc-edge.org/docs/images/diataxis_documentation_graphic.png
+.. image:: ../_static/images/overview/diataxis_documentation_graphic.png
    :width: 1000
