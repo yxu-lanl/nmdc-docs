@@ -4,7 +4,7 @@ The National Microbiome Data Collaborative’s (NMDC) vision is to empower the r
 
 Diversity within microbiome research, in all its forms (racial, gender, sexual identity, class, and more), strengthens research teams and practice, and helps advance science. Significant parallel, non-technical efforts are required to ensure microbiome data science, new technologies, and infrastructure developments work in the best interests of the research community and society at large. We are committed to supporting the diversity of experiences, expertise, backgrounds, needs, and perspectives of the microbiome research community, and to actively work towards an inclusive culture at a programmatic and individual level. 
 
-Understanding that engagement of vulnerable populations and working to correct these systemic exclusions of data lead to higher quality data generation and more diverse outcomes, the NMDC has constructed an Inclusion, Diversity, Equity, and Accountability (IDEA) strategic plan. This strategy is a living document that will grow and evolve as the NMDC Team continues to engage with the community for feedback and work with partners to make an inclusive, diverse, and equitable environment. If you would like to engage with the NMDC please reach out to support@microbiomedata.org. 
+Understanding that engagement of vulnerable populations and working to correct these systemic exclusions of data lead to higher quality data generation and more diverse outcomes, the NMDC has constructed an Inclusion, Diversity, Equity, and Accountability (IDEA) strategic plan. This strategy is a living document that will grow and evolve as the NMDC Team continues to engage with the community for feedback and work with partners to make an inclusive, diverse, and equitable environment. If you would like to engage with the NMDC, please reach out to support@microbiomedata.org. 
 Our Goals: 
 
 >Goal 1: Promote transparency and accountability within NMDC’s Team and Operations.  
@@ -13,4 +13,4 @@ Our Goals:
 >
 >Goal 3: Engage and support diverse stakeholders and users.
 
-FOr more information, see the [NMDC IDEA Stategic Plan.](https://microbiomedata.org/idea-strategic-plan/) 
+You can find more information about the [NMDC IDEA Stategic Plan.](https://microbiomedata.org/idea-strategic-plan/) on the NMDC website.
