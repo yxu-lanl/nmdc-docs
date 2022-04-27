@@ -9,13 +9,13 @@
 >
 >There are many ways to search the microbiome studies available in the Data Portal. This Tutorial will guide you through some of the most common methods.
 >
->Task 1: Go to the [NMDC Data Portal](https://data.microbiomedata.org/) and log in with your ORCID account. (You will need to log in to be able to download data/processed data. You can create an account from the login page from the ORCID login link in the top corner of the Data Portal.)
+>Task 1: Go to the [NMDC Data Portal](https://data.microbiomedata.org/) and log in with your ORCID account. (You can browse the data without logging in, but you will not be able to download data/processed data. You can create an account from the login page from the ORCID login link in the top corner of the Data Portal.)
 >
 >Task 2: Using the map feature (zoom capability and "Search this region" to filter by latitude/longitude), find all the metagenomes collected closest to Corvallis, Oregon. 
 >
 >&nbsp;&nbsp;&nbsp;&nbsp;Question 1: How many metagenomes have been collected near Covallis?
 >
->Task 3: Using the Study box (which shows the number of microbiome studies related to the metagenomes identified in Task 2), click the arrow on the right side of this box to get to the Study Page for this study.
+>Task 3: Using the Study box (which shows the number of microbiome studies related to the metagenomes identified in Task 2), click the arrow on the right side of this box to go to the Study Page for this study.
 >
 >&nbsp;&nbsp;&nbsp;&nbsp;Question 2:  What is the DOI for this study? (Note: This is also the DOI for the Dataset Citation.)
 >
@@ -24,3 +24,14 @@
 >&nbsp;&nbsp;&nbsp;&nbsp;Question 1: How many metagenomes were collected from freshwater biomes in 2015?
 >
 >&nbsp;&nbsp;&nbsp;&nbsp;Question 2: What other types of omics data are available for these samples?
+>
+>Task 5: Testing downloads with small files: In the Omics box, click the additional omics types available for these samples. This will allow you to be able to download from any of the processed data. (You must be logged in to be able to download data.)
+>From the first sample: 
+>
+>&nbsp;&nbsp;&nbsp;&nbsp;1. Click the Metagenome button under the first sample and download the QC Statistics under *Workflow Activity: Read QC Activity*. 
+>
+>&nbsp;&nbsp;&nbsp;&nbsp;2. Click on the Proteomics button and download the Protein Reoprt under *Workflow Activity: Metaproteome*.
+>
+>&nbsp;&nbsp;&nbsp;&nbsp;3. Click on the Metabolomics button and download the GC-MS Metabolomics Results.
+>
+>&nbsp;&nbsp;&nbsp;&nbsp;4. In the purple box above the samples, test the **Bulk Download** feature. In the *Select file type* box dropdown menu, select nmdc:ReadQC Analysis Activity. Click to **remove** the Filtered Sequencing Reads. This will provide a zipped (compressed) file with the QC Statistics for all of samples in the study.
