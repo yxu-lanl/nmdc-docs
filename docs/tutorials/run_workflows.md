@@ -11,8 +11,7 @@
 >
 >Task 1:  Create an NMDC EDGE account with either your email address or your ORCiD account.
 >
->Task 2: Download the small interleaved [data file listed here.](
-https://nmdc-edge.org/publicdata/test_data/SRR7877884-int-0.1.fastq.gz) Upload the file to NMDC EDGE.
+>Task 2: Download the small interleaved [data file](https://nmdc-edge.org/publicdata/test_data/SRR7877884-int-0.1.fastq.gz) listed here. (Note: This is paired-end data with the pairs interleaved together into a single file.) Upload the file to NMDC EDGE.
 >
 >Task 3: Click the user icon (in the top right corner with your initials) and under “Files”, click on “Manage Uploads”. Verify that the file you uploaded is there. (Note: Later you can delete uploads that are no longer needed.)
 >
@@ -135,9 +134,8 @@ https://nmdc-edge.org/publicdata/test_data/SRR7877884-int-0.1.fastq.gz) Upload t
 
 >NMDC EDGE Metatranscriptomics Tutorial Practics
 >
->Task 1: Download the small interleaved [data file listed here.](
-https://nmdc-edge.org/publicdata/metaT/test_smaller_interleave.fastq.gz)
-
+>Task 1: Download the small interleaved [data file](https://nmdc-edge.org/publicdata/metaT/test_smaller_interleave.fastq.gz) listed here. (Note: This is paired-end data with the pairs interleaved together into a single file.) 
+>
 >Task 2: Log into NMDC EDGE and upload the file. 
 >
 >Task 3: Click the user icon (in the top right corner with your initials) and under “Files”, click on “Manage Uploads”. Verify that the file you uploaded is there. (Note: Later you can delete uploads that are no longer needed.)
@@ -148,7 +146,7 @@ https://nmdc-edge.org/publicdata/metaT/test_smaller_interleave.fastq.gz)
 >
 >&nbsp;&nbsp;&nbsp;&nbsp;Question 2: Download the contigs.fa (transcripts) file.  How many transcripts were assembled?
 >
->&nbsp;&nbsp;&nbsp;&nbsp;Question 2: Download the rpkm_sorted_features.tsv file.  How many transcripts were assigned a product (protein) that is not hypothetical?
+>&nbsp;&nbsp;&nbsp;&nbsp;Question 3: Download the rpkm_sorted_features.tsv file.  How many transcripts were assigned a product (protein) that is **not hypothetical**?
 
 
 
