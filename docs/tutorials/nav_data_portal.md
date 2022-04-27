@@ -34,4 +34,4 @@
 >
 >&nbsp;&nbsp;&nbsp;&nbsp;3. Click on the Metabolomics button and download the GC-MS Metabolomics Results.
 >
->&nbsp;&nbsp;&nbsp;&nbsp;4. In the purple box above the samples, test the **Bulk Download** feature. In the *Select file type* box dropdown menu, select nmdc:ReadQC Analysis Activity. Click to **remove** the Filtered Sequencing Reads. This will provide a zipped (compressed) file with the QC Statistics for all of samples in the study.
+>&nbsp;&nbsp;&nbsp;&nbsp;4. In the purple box above the samples, test the **Bulk Download** feature. In the *Select file type* box dropdown menu, select nmdc:ReadQC Analysis Activity. Click to **remove** the Filtered Sequencing Reads. This will provide a zipped (compressed) files with the QC Statistics for all of samples in the study.
