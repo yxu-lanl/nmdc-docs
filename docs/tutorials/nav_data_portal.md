@@ -39,8 +39,10 @@
 
 
 ## Answers to Tutorial Questions
-
-Task 2, Question 1: 108 metagenomes have been collected near Corvallis, OR.
-Task 3, Question 1: The DOI for this study and dataset is https://doi.org/10.46936/10.25585/60000017
-Task 4, Question 1: There are 32 samples collected from freshwater river biomes in 2015 which have metagenomic data.
-Task 4, Question 2: There are also proteomics and metabolomics data for these samples.
+>Task 2, Question 1: 108 metagenomes have been collected near Corvallis, OR.
+>
+>Task 3, Question 1: The DOI for this study and dataset is https://doi.org/10.46936/10.25585/60000017
+>
+>Task 4, Question 1: There are 32 samples collected from freshwater river biomes in 2015 which have metagenomic data.
+>
+>Task 4, Question 2: There are also proteomics and metabolomics data for these 32 samples.
