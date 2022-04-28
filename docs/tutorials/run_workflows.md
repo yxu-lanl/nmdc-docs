@@ -153,26 +153,35 @@ https://nmdc-edge.org/publicdata/test_data/SRR7877884-int-0.1.fastq.gz) Upload t
 ## Answers to Tutorial Questions
 
 ### Metegenomics ReadsQC
-Question 1: Input contained 4,496,774 reads and 674,516,100 bases.
-Question 2: Output contained 3,353,438 reads and 487,250,239 bases.
-Question 3: Clean, filtered data is in the output file called SRR7877884-int-0.1.anqdpht.fastq.gz.
+>Question 1: Input contained 4,496,774 reads and 674,516,100 bases.
+>
+>Question 2: Output contained 3,353,438 reads and 487,250,239 bases.
+>
+>Question 3: For this project, the clean, filtered data is in the output file called SRR7877884-int-0.1.anqdpht.fastq.gz.
 
 ### Metegenomics Read-based Taxonomy Classification
-Question 1: There are seven species called by more than one taxonomy tool: *Pseudomonas aeruginosa, Salmonella enterica, Listeria monocytogenes, Enterococcus faecalis, Lactobacillus fermentum, Bacillus subtilis, and Escherichia coli.*
-Question 2: There are four genera called by all three taxonomy classification tools: *Pseudomonas, Bacillus, Enterococcus, and Lactobacillus.*
-Question 3: The Krona plot shows that Centrifuge estimates that 12% of the sample is *Pseudomonas aeruginosa."
+>Question 1: There are seven species called by more than one taxonomy tool: *Pseudomonas aeruginosa, Salmonella enterica, Listeria monocytogenes, Enterococcus faecalis, Lactobacillus fermentum, Bacillus subtilis, and Escherichia coli.*
+>
+>Question 2: There are four genera called by all three taxonomy classification tools: *Pseudomonas, Bacillus, Enterococcus, and Lactobacillus.*
+>
+>Question 3: The Krona plot shows that Centrifuge estimates that 12% of the sample is *Pseudomonas aeruginosa."
 
 ### Metegenomics Assembly
-Question 1: 3,196 contigs were assembled.
-Question 2: 3,141 scaffolds were created.
-Question 3: 
+>Question 1: 3,196 contigs were assembled.
+>
+>Question 2: 3,141 scaffolds were created.
+>Question 3: 
 
 ### Metegenomics Annotation
-Question 1: 3,031 contigs had genes called.
-Question 2: 2,495 CDS (coding sequences or genes) were called by GeneMark and 936 CDS were called by Prodigal.
-Question 3: The coding density of the metagenome is 89.15%.
+>Question 1: 3,031 contigs had genes called.
+>
+>Question 2: 2,495 CDS (coding sequences or genes) were called by GeneMark and 936 CDS were called by Prodigal.
+>
+>Question 3: The coding density of the metagenome is 89.15%.
 
 ### Metagenome MAGs 
-Question 1: 24% of the contigs were binned.
-Question 2: One bin was determined to be high quality and five bins were determined to be medium quality.
-Question 3: The organism called by gtdbtk for the highest quality bin is *Bacillus marinus.*
+>Question 1: 24% of the contigs were binned.
+>
+>Question 2: One bin was determined to be high quality and five bins were determined to be medium quality.
+>
+>Question 3: The organism called by gtdbtk for the highest quality bin is *Bacillus marinus.*
